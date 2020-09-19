@@ -1,5 +1,15 @@
 ## README
 ### By: Kevin Ge
 
-### Intro
-This is just some sample text I will fill other things in this later. i
+### What I attempted to build 
+
+
+### Who did what (if you worked with someone else) 
+I worked alone so I did everything myself. 
+
+### What you learned What didn’t work
+
+### Tutorial Disclaimer
+I used _____ tutorial. 
+
+Link here: 
